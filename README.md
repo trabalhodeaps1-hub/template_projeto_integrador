@@ -15,21 +15,21 @@ segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
 #### 2.1 Ideias Selecionadas pelo grupos
 Após realiza a Dinâmica Prática 5–5–5 (Problemas, soluções atuais e pessoas),  descreva as 2 principais ideias definidas pelo grupo .<br>
 
-<br> Ideia 1: 
-<br> Ideia 2: 
+<br> Ideia 1: Relatório Automatizados 
+<br> Ideia 2: Sistema de Ocorrência
 
 
 #### 2.2 Matriz de seleção
 <img src="https://raw.githubusercontent.com/templatetrab/template_projeto_integrador/refs/heads/main/arquivos/matrizSelecao.png" Personas src="https://raw.githubusercontent.com/templatetrab/template_projeto_integrador/refs/heads/main/arquivos/matrizSelecao.png" width="500" height="250" /> <br>
 
 <inclua os resultados obtidos pelo grupo na matriz de seleção>
-<br> Ideia 1: <título da ideia>
-<br> afinidade [ ], processo [ ], problema [ ], valor do software [ ], viabilidade [ ]
-<br> Nota final: [ ]
+<br> Ideia 1: Relatório automatizados
+<br> afinidade [2], processo [1], problema [2], valor do software [2], viabilidade [1]
+<br> Nota final: [8]
 
-<br> Ideia 2: <título da ideia>
-<br>afinidade [ ], processo [ ], problema [ ], valor do software [ ], viabilidade [ ]
-<br> Nota final: [ ]
+<br> Ideia 2: Sistema de Ocorrência
+<br>afinidade [1], processo [0], problema [2], valor do software [1], viabilidade [1]
+<br> Nota final: [5]
 
 
 
@@ -40,16 +40,18 @@ a) exemplo de oportunit card (observe que neste caso o grupo não incluiu o item
 <img src="https://raw.githubusercontent.com/templatetrab/template_projeto_integrador/refs/heads/main/arquivos/opportunityCard.png" Personas src="https://raw.githubusercontent.com/templatetrab/template_projeto_integrador/refs/heads/main/arquivos/opportunityCard.png" width="500" height="330" /> <br>
 
 Descreva o que o foi definido pelo grupo para cada item abaixo referenta ao Opportunity Card da ideia selecioanda
-1. Área de afinidade/contexto
-2. Problema percebido
-3. Quem possui o problema
-4. Como é resolvido hoje
-5. Soluções semelhantes
-6. Lacuna inicial
-7. Pessoas acessíveis
-8. Hipótese de oportunidade
-9. Fomento/oportunidade
-10. Principal incerteza/desafio
+1. Área de afinidade/contexto: Criação de relatórios manualmente para relatar problemas
+2. Problema percebido: Preenchimento manual de relatórios, por consequência, demora para avaliar os relatórios e
+definir a urgência.
+3. Quem possui o problema:Pessoas que desejam produzir relatórios rápidos e avaliadores desses documentos.
+4. Como é resolvido hoje: Mensagens por meio de whatsapp para depois fazerem os relatórios
+5. Soluções semelhantes: Leankeep
+6. Lacuna inicial: Site de relatórios automatizados de problemas dentro da empresa.
+7. Pessoas acessíveis:Funcionários.
+8. Hipótese de oportunidade: Facilitar o repasse de problemas entre os funcionários da empresa contratante, tornando o
+processo mais rápido e organizado.
+9. Fomento/oportunidade: Assinatura mensal.
+10. Principal incerteza/desafio: Empresa interessada no serviço. ArceloMittal
 
 
 ### 3.MINIMUNDO<br>
