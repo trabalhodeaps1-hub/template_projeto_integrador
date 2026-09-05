@@ -1,3 +1,5 @@
+<img width="1229" height="690" alt="Captura de tela 2026-09-04 214220" src="https://github.com/user-attachments/assets/1408366b-426c-4fd4-a0ea-0548dd150f2e" />
+<img width="1229" height="690" alt="Captura de tela 2026-09-04 214220" src="https://github.com/user-attachments/assets/58f9a39e-2a44-444a-a247-2d0c2a8d90d8" />
 # TRABALHO DE PI: Gestão e Relatórios de Incidentes Industriais
 Trabalho desenvolvido durante a disciplina de projeto Integrador
 
@@ -198,6 +200,7 @@ Sugestão:(https://www.figma.com/make/oA20ZwhC5rNWYyPZ1ZsXJ5/AutoRelat%C3%B3rio-
 
 
 ### 4.PMC<br>
-![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
+<img width="1229" height="690" alt="Captura de tela 2026-09-04 214220" src="https://github.com/user-attachments/assets/c61fd06a-7318-46dd-814a-656d4ccb04a3" />
 
 a) inclusão do PMC desenvolvido pelo grupo <br>
+
