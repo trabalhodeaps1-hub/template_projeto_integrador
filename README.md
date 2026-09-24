@@ -11,7 +11,7 @@ Melissa França: francamelissa55@gmail.com<br>
 Amanda Costa: amanandacostarocha5@gmail.com<br>
 Beatriz: beatrizbermond1@gmail.com<br>
 Arthur: arthur.max.rnd@gmail.com<br>
-Brenda:
+Brenda: sobrinhodeorcebrendaa@gmail.com<br>
 Natan: 
 
  
