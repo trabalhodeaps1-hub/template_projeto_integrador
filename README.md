@@ -12,6 +12,7 @@ Amanda Costa: amanandacostarocha5@gmail.com<br>
 Beatriz: beatrizbermond1@gmail.com<br>
 Arthur: arthur.max.rnd@gmail.com<br>
 Brenda: sobrinhodeorcebrendaa@gmail.com<br>
+Andrei: andrei.lp151207@gmail.com
 
  
 ### 2. Ideias Selecionadas, Matriz de selecao e OpportunityCard
