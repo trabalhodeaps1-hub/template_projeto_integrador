@@ -204,3 +204,15 @@ Sugestão:(https://www.figma.com/make/oA20ZwhC5rNWYyPZ1ZsXJ5/AutoRelat%C3%B3rio-
 
 a) inclusão do PMC desenvolvido pelo grupo <br>
 
+
+### Como entrar no site
+
+•Linguagens de Programação:
+ • Python
+ • Java Script
+ • CSS
+ • Banco de dados: PostgreSQL
+ 
+
+ 
+
